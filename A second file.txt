@@ -1,1 +1,2 @@
 Here is a second file.
+Here is a second line.
